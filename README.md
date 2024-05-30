@@ -53,9 +53,9 @@ Special thanks to Professor Eardi Lila and TA Ethan Ancell for their support thr
 
 ## Repository Structure
 
-- the code for simulation 
-- the plots of the simulation
-- project report
+- [project report](https://github.com/SZ-yang/BIOST527_ConstrainedKDE-/blob/main/BIOST527_FinalProject_ConstrainedDenistyEstimation.pdf)
+- [code for simulation](https://github.com/SZ-yang/BIOST527_ConstrainedKDE-/blob/main/Constrained_KDE_Simulation.ipynb)
+- [plots of the simulation](https://github.com/SZ-yang/BIOST527_ConstrainedKDE-/tree/main/plots)
 
 
 ## Usage
