@@ -8,6 +8,13 @@ The project has two primary objectives:
 1. Understand the derivation of the Constrained Density Estimation method and improve the optimization technique.
 2. Perform simulations of kernel density estimation with moment constraints.
 
+## Repository Structure
+
+- [project report](https://github.com/SZ-yang/BIOST527_ConstrainedKDE-/blob/main/BIOST527_FinalProject_ConstrainedDenistyEstimation.pdf)
+- [code for simulation](https://github.com/SZ-yang/BIOST527_ConstrainedKDE-/blob/main/Constrained_KDE_Simulation.ipynb)
+- [plots of the simulation](https://github.com/SZ-yang/BIOST527_ConstrainedKDE-/tree/main/plots)
+
+
 ## Abstract
 
 The study aims to explore the Constrained Density Estimation method, focusing on moment constraints. The method employs a biased-bootstrap approach, where weights are optimized to satisfy specific constraints. We also improve the optimization technique by using the Gauss-Newton method with line search for better convergence.
@@ -50,13 +57,6 @@ Special thanks to Professor Eardi Lila and TA Ethan Ancell for their support thr
 
 1. Hall, P., DiCiccio, T. J., and Romano, J. P. On Smoothing and the Bootstrap. The Annals of Statistics, 1989.
 2. Hall, P., and Presnell, B. Density estimation under constraints. Journal of Computational and Graphical Statistics, 1999.
-
-## Repository Structure
-
-- [project report](https://github.com/SZ-yang/BIOST527_ConstrainedKDE-/blob/main/BIOST527_FinalProject_ConstrainedDenistyEstimation.pdf)
-- [code for simulation](https://github.com/SZ-yang/BIOST527_ConstrainedKDE-/blob/main/Constrained_KDE_Simulation.ipynb)
-- [plots of the simulation](https://github.com/SZ-yang/BIOST527_ConstrainedKDE-/tree/main/plots)
-
 
 ## Usage
 
